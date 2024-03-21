@@ -55,3 +55,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 ## Acknowledgments
 
 - This project is intended for educational purposes and aims to introduce users to the fundamentals of cryptography.
+
+## Fornt-end Mokup 
+- https://www.figma.com/file/ixRbg22PE8KuRJPbADEgew/Secure-Crypt%3A-Encryption-%26-Decryption-Hub?type=design&node-id=0%3A1&mode=design&t=IGkYaq1ZEDsCrxIc-1
